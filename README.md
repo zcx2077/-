@@ -1,4 +1,4 @@
-# -
+# 抖音视频发布、点赞关注、评论、抖音直播间弹幕采集
 抖音网页版算法，abogus、a_bogus、signature,抖音滑块，文字点选，ttwid，req_sign，bd_ticket_guard_client_data，私钥生成，抖音扫码登录算法、抖音视频发布算法、抖音直播间弹幕采集
 快手sig3算法，快手滑块
 小红书 xs，数美滑块
