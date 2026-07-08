@@ -4,4 +4,4 @@ protobuf协议
 a_bogus,captchaBody,reflow_id,bd-ticket-guard-client-data,bd-ticket-guard-ree-public-key,sign,account_info
 承接软件开发,感兴趣的联系我
 #联系方式vx:ProfessorLuoMing
-#telegram:@Stanford_Ashley77q45
+#telegram:@kathleen84016
